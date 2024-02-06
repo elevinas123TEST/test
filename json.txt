@@ -1,1 +1,1 @@
-{"images":[],"blogs":[{"title":"Bandom kurit bloga","components":[],"published":false,"id":"e0210a6b-9fef-4ca2-baef-f810be8a41a6"}]}
+{"images":[],"blogs":[{"title":"Bandom kurit bloga","components":[{"type":"text","content":"APvyko sukurti ir updatint bloga?","id":"250aea3f-14b6-4afe-a6e7-b97421e4f400","index":0},{"type":"text","content":"Negali buti","id":"ac91b09d-3a83-49bc-9807-d0de92daf9c4","index":1}],"id":"e0210a6b-9fef-4ca2-baef-f810be8a41a6","published":false}]}
